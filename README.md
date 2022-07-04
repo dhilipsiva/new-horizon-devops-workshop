@@ -1,3 +1,3 @@
 # new-horizon-devops-workshop
 
-edited foo
+edited locally
